@@ -29,7 +29,7 @@
     "passport-strategy": "*",
     "q": "^1.5.0",
     "xml-crypto": "^0.10.1",
-    "xml-encryption": "^0.11.0",
+    "xml-encryption": "manometer114/node-xml-encryption",
     "xml2js": "0.4.x",
     "xmlbuilder": "^9.0.4",
     "xmldom": "0.1.x"
